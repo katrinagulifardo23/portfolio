@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33370548/README.1.md)
 # Katrina Anne M. Gulifardo
 
 **Legal and eCommerce Compliance Professional** | Manila, Philippines | Fully remote, supporting U.S.-based attorneys
