@@ -90,4 +90,4 @@ A notarial-ready Affidavit of Loss supporting a replacement passport application
 
 ## Contact
 
-Add your email and LinkedIn here.
+katrinagulifardo@gmail.com
