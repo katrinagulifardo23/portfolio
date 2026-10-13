@@ -1,8 +1,16 @@
-
-# 
+[README (1).md](https://github.com/user-attachments/files/33370548/README.1.md)
 # Katrina Anne M. Gulifardo
 
 **Legal and eCommerce Compliance Professional** | Manila, Philippines | Fully remote, supporting U.S.-based attorneys
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Clio](https://img.shields.io/badge/Clio-0A66C2?style=flat)
+![Filevine](https://img.shields.io/badge/Filevine-1F2937?style=flat)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat)
 
 ## Professional Summary
 
@@ -12,6 +20,15 @@ Legal and eCommerce compliance professional with about 8 years of combined exper
 
 - BA in Political Science, Technological Institute of the Philippines, Manila
 - Paralegal Training Program Certificate, University of the Philippines
+
+## Core Skills
+
+- Legal research and case digests
+- Pleading and affidavit drafting
+- Amazon seller arbitration support
+- IP rights enforcement
+- Legal intake coordination
+- Document drafting under Philippine law
 
 ## Work Samples
 
@@ -66,9 +83,10 @@ A notarial-ready Affidavit of Loss supporting a replacement passport application
 
 ## Tools and Technology
 
-**Workplace and collaboration:** Slack, Google Workspace, Microsoft Teams and Microsoft Office, HubSpot
-
-**Legal AI and practice tools:** ChatGPT, Claude AI, Gemini, Filevine, Clio, Lois, Verva, Grammarly
+| Category | Tools |
+|---|---|
+| Collaboration | Slack, Google Workspace, Microsoft Teams and Microsoft Office, HubSpot |
+| Legal AI and practice tools | ChatGPT, Claude AI, Gemini, Filevine, Clio, Lois, Verva, Grammarly |
 
 ## Contact
 
